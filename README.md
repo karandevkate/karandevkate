@@ -82,20 +82,6 @@ Secure exam platform with a dynamic question bank, timed exams, and real-time re
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mrkarandevkate&show_icons=true&theme=github_dark&hide_border=true&count_private=true&title_color=F5A623&icon_color=F5A623" height="160"/>
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrkarandevkate&layout=compact&theme=github_dark&hide_border=true&title_color=F5A623" height="160"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mrkarandevkate&bg_color=0d1117&color=F5A623&line=30363d&point=F5A623&hide_border=true" />
-</p>
-
----
-
 ## 🌱 Currently Exploring
 
 | Topic | Status |
